@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Noxz and <br/>
   I'm a  Full-Stack Web Developer  from INDIA.</h2>
+  <p> I am Noxz , Playing With Code.... Web Developer <br>||Bachelor of Technology CSE||GDSC Club <br> The Assam Kaziranga University Intern| |GreatLearning| |DTA FullStack</p>
 
 ###
 
