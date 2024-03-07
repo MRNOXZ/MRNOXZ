@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">Hi 👋! My name is NOXZ </br>
 </br>
   and I'm a Full-Stack Web Developer 💻....</h2>
+  <p>I am Noxz , Playing With Code.... Web Developer ||Bachelor of Technology CSE|<br/>|GDSC Club The Assam Kaziranga University Intern| |GreatLearning| |DTA FullStack</p>
 
 ###
 
