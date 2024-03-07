@@ -3,7 +3,9 @@
 MRNOXZ/MRNOXZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="left">Hi 👋! My name is NOXZ and I'm a Full-Stack Web Developer 💻....</h2>
+<h2 align="left">Hi 👋! My name is NOXZ </br>
+</br>
+  and I'm a Full-Stack Web Developer 💻....</h2>
 
 ###
 
